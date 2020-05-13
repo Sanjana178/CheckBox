@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CheckBox/static/css/main.d2069e48.chunk.css",
+    "main.js": "/CheckBox/static/js/main.d2d80d5d.chunk.js",
+    "main.js.map": "/CheckBox/static/js/main.d2d80d5d.chunk.js.map",
+    "runtime~main.js": "/CheckBox/static/js/runtime~main.d7e9b288.js",
+    "runtime~main.js.map": "/CheckBox/static/js/runtime~main.d7e9b288.js.map",
+    "static/js/2.af8b5af6.chunk.js": "/CheckBox/static/js/2.af8b5af6.chunk.js",
+    "static/js/2.af8b5af6.chunk.js.map": "/CheckBox/static/js/2.af8b5af6.chunk.js.map",
+    "index.html": "/CheckBox/index.html",
+    "precache-manifest.36e2678766c9c9efe7f0809b3ed7dde3.js": "/CheckBox/precache-manifest.36e2678766c9c9efe7f0809b3ed7dde3.js",
+    "service-worker.js": "/CheckBox/service-worker.js",
+    "static/css/main.d2069e48.chunk.css.map": "/CheckBox/static/css/main.d2069e48.chunk.css.map"
+  }
+}
